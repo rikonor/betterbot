@@ -1,0 +1,22 @@
+{
+  "name": "betterbot",
+  "version": "1.0.0",
+  "description": "A better slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikonor/betterbot.git"
+  },
+  "keywords": [
+    "slack"
+  ],
+  "author": "Or Rikon",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rikonor/betterbot/issues"
+  },
+  "homepage": "https://github.com/rikonor/betterbot#readme"
+}
