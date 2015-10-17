@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rikonor/betterbot/issues"
   },
-  "homepage": "https://github.com/rikonor/betterbot#readme"
+  "homepage": "https://github.com/rikonor/betterbot#readme",
+  "dependencies": {
+    "node-slackbot": "0.0.6"
+  }
 }
